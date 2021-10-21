@@ -1,0 +1,72 @@
+version=1
+id=2584812605
+title=AR-15 Rifle
+description=[h2]Updated for Build 41.54![/h2]
+description=
+description=[h2]What does this mod do?[/h2]
+description=Adds an AR-15 Rifle to the game. The 3d model and texture comes from the "Base.Assaultrifle" found in the Project Zomboid files.
+description=
+description=[h2] Notice! [/h2]
+description=The Firearm uses 556 Ammo & 556 Magazines.
+description=The firearm is only compatible with the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2584211049][u]Weapon Mod[/u][/url] Suppressor.
+description=You can view the [url=https://steamcommunity.com/sharedfiles/filedetails//changelog/2584812605/][u]change log[/u][/url] for updates.
+description=
+description=[h2]Features:[/h2]
+description=[list]
+description=[*]Necroforge Supported!
+description=[*]Attach mods & suppressor from my [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2584211049][u]Weapon Mod[/u][/url]
+description=[/list]
+description=
+description=
+description=[h2]Where to find the AR-15[/h2]
+description=[spoiler]gunstore, gunstorestorage, armystorage, security, Bag_WeaponBag, Bag_SurvivorBag, ShotgunCache1, ShotgunCache2, GunCache1, GunCache2 [/spoiler]
+description=
+description=
+description=[h2]Compatibility[/h2]
+description=This mod should be compatible with any other mod.
+description=Compatible with my [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2584211049][u]Weapon Mod[/u][/url]
+description=This mod works with [b]Build 41 & Build 41.51[/b] I have not tested it with any other builds.
+description=
+description=[h2]Bugs:[/h2]
+description=[strike]Attaching a suppressor to the Rifle will eat any Ammo, magazines, and mods attached to the firearm.Remove them first before attaching the suppressor. - Fix will come soon[/strike]
+description=
+description=[strike]Removing the suppressor will destroy the suppressor. - Fix will come soon[/strike]
+description=
+description=None at this time!
+description=
+description=
+description=
+description=[h2]Roadmap:[/h2]
+description=[list]
+description=[*]Bugfixing
+description=[/list]
+description=
+description=Adds the following items
+description=[list]
+description=[*]AR15R.AR15
+description=[/list]
+description=
+description=[h2]Check out my other mods[/h2]
+description=[url=https://steamcommunity.com/id/Blackbeard06/myworkshopfiles/?appid=108600][u]Blackbeard's Workshop[/u][/url]
+description=
+description=[h3]Food & Drink Mods[/h3]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2581249482][u]More Vanilla Alcohol [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2098960488][u]More Beer [Build 41.54][/u][/url]
+description=
+description=[h3]Firearm Mods[/h3]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2584812605][u]AR-15 [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2584211049][u]Weapon Mod [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2577049038][u]Ammo Logistics [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2601349483][u]More Vanilla Firearms [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2577049336][u]More Ammo [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2579385169][u]M&P 9mm [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2577942794][u]Operator's M4 [Build 41.54][/u][/url]
+description=
+description=[h3]Other Mods[/h3]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2413030042][u]Small Dot Cursor [All Builds][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2601912220][u]Day By Day Armageddon [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2601977020][u]Checklist [All Builds][/u][/url]
+description=
+description=[H2]Mod Info[/H2]
+tags=Build 40;Build 41;Models;Realistic;Weapons
+visibility=public
